@@ -1,8 +1,0 @@
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\bin\Debug\Game_Xep_Hinh.exe
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\bin\Debug\Game_Xep_Hinh.pdb
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\ResolveAssemblyReference.cache
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\Game_Xep_Hinh.frmChinh.resources
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\Game_Xep_Hinh.Properties.Resources.resources
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\Game_Xep_Hinh.csproj.GenerateResource.Cache
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\Game_Xep_Hinh.exe
-E:\1-Projects\Visual Studio 2008\Projects\Game_Xep_Hinh\Game_Xep_Hinh\obj\Debug\Game_Xep_Hinh.pdb
